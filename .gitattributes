@@ -1,0 +1,4 @@
+# --- скрипты и исходники хранятся с окончаниями строк LF, иначе bash не запустит .sh
+*.sh text eol=lf
+*.py text eol=lf
+*.html text eol=lf

@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+
+# Базы данных SQLite создаются скриптами при запуске
+*.db
+*.sqlite3
+
+# IDE / ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Временные файлы
+*.log
+*.bak
+*.tmp
