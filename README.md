@@ -10,3 +10,4 @@
 
 ## Выполненные работы
 
+- [Основы работы с Linux](bash_linux/01_linux_fundamentals/)
