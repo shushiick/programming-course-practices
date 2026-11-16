@@ -13,3 +13,4 @@
 - [Основы работы с Linux](bash_linux/01_linux_fundamentals/)
 - [Основы Bash-скриптинга](bash_linux/02_bash_syntax/)
 - [Вычислительные операции в bash](bash_linux/03_bash_computation/)
+- [Практические bash-скрипты](bash_linux/04_bash_scripts/)
