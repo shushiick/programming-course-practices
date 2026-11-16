@@ -11,3 +11,4 @@
 ## Выполненные работы
 
 - [Основы работы с Linux](bash_linux/01_linux_fundamentals/)
+- [Основы Bash-скриптинга](bash_linux/02_bash_syntax/)
