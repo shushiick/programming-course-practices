@@ -16,3 +16,4 @@
 - [Практические bash-скрипты](bash_linux/04_bash_scripts/)
 - [Практическая работа №1: Инициализация базы данных SQLite](python_sqlite/01_init_db/)
 - [Практическая работа №2: Базовые CRUD-операции через консоль](python_sqlite/02_crud_console/)
+- [Практическая работа №3: Подключение Flask и первый маршрут](python_sqlite/03_flask_hello/)
