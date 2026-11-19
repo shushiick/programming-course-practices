@@ -20,3 +20,4 @@
 - [Практическая работа №4: Интеграция Flask и SQLite (чтение данных)](python_sqlite/04_flask_read/)
 - [Практическая работа №5: Интеграция Flask и SQLite (добавление данных)](python_sqlite/05_flask_create/)
 - [Практическая работа №6: Обработка ошибок и защита соединений](python_sqlite/06_error_handling/)
+- [Практическая работа №7: Мини-проект «Список задач»](python_sqlite/07_todo_project/)
