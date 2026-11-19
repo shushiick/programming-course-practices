@@ -17,3 +17,4 @@
 - [Практическая работа №1: Инициализация базы данных SQLite](python_sqlite/01_init_db/)
 - [Практическая работа №2: Базовые CRUD-операции через консоль](python_sqlite/02_crud_console/)
 - [Практическая работа №3: Подключение Flask и первый маршрут](python_sqlite/03_flask_hello/)
+- [Практическая работа №4: Интеграция Flask и SQLite (чтение данных)](python_sqlite/04_flask_read/)
